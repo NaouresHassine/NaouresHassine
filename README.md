@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://discord.gg/YOUR_INVITE_OR_USERNAME">
+  <a href="https://discord.gg/VqBfBXwmv">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
 </a>
 
