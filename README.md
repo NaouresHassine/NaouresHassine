@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<h2>Hi, I’m Nawras Hassine 👩‍💻✨</h2>
+<h2>Hi, I’m Naoures Hassine 👩‍💻✨</h2>
 <h4>Higher Technician in Computer Systems Engineering</h4>
 
 <details>
@@ -14,7 +14,7 @@
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NawrasHassine&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=NaouresHassine&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -38,7 +38,7 @@
 ```dart
 // About Me - organized
 
-class About extends Nawras {
+class About extends Naoures {
   const mySkills = {
     "ProgrammingLanguages": {"Java", "C", "C++", "Python", "JavaScript"},
     "WebTechnologies": {"HTML", "CSS"},
