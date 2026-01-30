@@ -7,6 +7,7 @@
 
 <h2>Hi, I’m Naoures Hassine 🧕🏼🌍📍🇹🇳</h2>
 <h4>Higher Technician in Computer Systems Engineering</h4>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <details>
 <p><strong><summary> Busy coding & learning </summary></strong></p>
