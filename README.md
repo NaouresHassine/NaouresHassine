@@ -15,6 +15,33 @@
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaouresHassine&style=flat&color=orange&label=PROFILE+VIEWS)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=NaouresHassine&style=flat&color=orange&label=PROFILE+VIEWS"/>
+
+<a href="https://www.linkedin.com/in/USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/USERNAME">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/216XXXXXXXX">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://t.me/USERNAME">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.pinterest.com/USERNAME">
+  <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white"/>
+</a>
 
 </div>
 
