@@ -14,7 +14,6 @@
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NaouresHassine&style=flat&color=orange&label=PROFILE+VIEWS)
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=NaouresHassine&style=flat&color=orange&label=PROFILE+VIEWS"/>
