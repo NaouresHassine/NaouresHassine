@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<h2>Hi, I’m Naoures Hassine 👩‍💻☕</h2>
+<h2>Hi, I’m Naoures Hassine 🧕🏽🌍📍🇹🇳</h2>
 <h4>Higher Technician in Computer Systems Engineering</h4>
 
 <details>
