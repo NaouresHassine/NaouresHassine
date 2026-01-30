@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.facebook.com">
+  <a href="https://www.facebook.com/share/1HPQG1a529/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
 
@@ -33,15 +33,15 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://wa.me/XXXXXXXXXX">
+  <a href="https://wa.me/+21622716227">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="https://t.me/USERNAME">
+  <a href="https://t.me/NaouresHassine">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
   </a>
 
-  <a href="https://www.pinterest.com">
+  <a href="https://pin.it/1kWI5GBA0">
     <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white"/>
   </a>
 </p>
