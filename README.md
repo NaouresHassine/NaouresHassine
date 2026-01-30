@@ -3,14 +3,14 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<h2>Hi, I’m Naoures Hassine 👩‍💻✨</h2>
+<h2>Hi, I’m Naoures Hassine 👩‍💻☕</h2>
 <h4>Higher Technician in Computer Systems Engineering</h4>
 
 <details>
-<p><strong><summary> 💡 About Me </summary></strong></p>
+<p><strong><summary> Busy coding & learning </summary></strong></p>
 
-📚 Passionate about information systems, system modeling, networking, and data analysis.  
-🛠️ I work with different tools and environments to design, analyze, and manage systems.
+💻 Passionate about information systems, modeling, and data analysis.  
+☕ Java + Coffee = focus mode ON.
 
 </details>
 
@@ -35,6 +35,7 @@
 ## 🧰 Systems, Tools & Platforms
 
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Virtual Machine](https://img.shields.io/badge/Virtual_Machine-607078?style=flat)
@@ -56,16 +57,8 @@
 
 ---
 
-## 🧩 Modeling & Analysis
-
-- UML Diagrams (Use Case, Class, Sequence)
-- System Modeling using **StarUML**
-- Data Analysis using **R & RStudio**
-
----
-
 ```xml
-<!-- Skills Representation in XML -->
+<!-- Skills represented in XML -->
 
 <NaouresHassine>
   <Education>
@@ -93,6 +86,7 @@
 
     <Systems>
       <OS>GNU/Linux</OS>
+      <OS>Kali Linux</OS>
       <OS>Windows</OS>
     </Systems>
 
