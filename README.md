@@ -62,7 +62,7 @@
 ## ⚡ Fun Fact
 
 > **The first computer “bug” was an actual insect found inside a machine in 1947 🐛💻**
-<img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
 ---
 
 ## 🚀 Programming & Markup Languages
