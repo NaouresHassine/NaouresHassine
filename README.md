@@ -20,8 +20,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NaouresHassine&style=flat&color=orange&label=PROFILE+VIEWS"/>
 
-  <a href="https://www.linkedin.com/in/naoures-hassine-%D9%86%D9%88%D8%B1%D8%B3-%D8%AD%D8%B3%D9%8A%D9%86-6410522b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-">
+  <a href="https://www.linkedin.com/in/naoures-hassine-6410522b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
